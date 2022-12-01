@@ -1,0 +1,5 @@
+Ok, now we should have gambas started with a fresh, new project. You are now looking at the Gambas GUI, which is where we will do all our Gambas work. When you look at the interface, it seems pretty useless; No windows, No buttons or what have you. Let's change that right away.
+
+On your left side, you'll see a tree view, right click on the Forms folder, and choose "New --> Form"(the --> indicates that you choose New, and follow the submenu to Form).
+
+In the Create form dialog, just click "Ok".
